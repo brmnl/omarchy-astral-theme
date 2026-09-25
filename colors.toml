@@ -1,0 +1,33 @@
+# Astral: an Omarchy theme with deep indigo, violet and a neon-green glow.
+mode = "dark"
+
+accent = "#6a74f2"
+selection = "#303050"
+selection_foreground = "#ffffff"
+muted = "#9e9e9e"
+
+background = "#121212"
+dark_background = "#0e0e0e"
+darker_background = "#090909"
+lighter_background = "#2a2a2a"
+
+foreground = "#ffffff"
+dark_foreground = "#bfbfbf"
+light_foreground = "#ffffff"
+bright_foreground = "#ffffff"
+
+red = "#a476ef"
+yellow = "#5d6dff"
+orange = "#b28bf1"
+green = "#5cf59f"
+cyan = "#676bff"
+blue = "#6a74f2"
+magenta = "#966ef7"
+brown = "#6b5391"
+
+bright_red = "#b288f7"
+bright_yellow = "#808aff"
+bright_green = "#8affc1"
+bright_cyan = "#8b87ff"
+bright_blue = "#8e92ff"
+bright_magenta = "#a581fd"
